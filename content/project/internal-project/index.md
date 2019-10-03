@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: A neat example of using the in-built project page.
 tags:
 - Monsters
 - Baking
